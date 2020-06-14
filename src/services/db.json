@@ -1,0 +1,302 @@
+{
+    "products" : 
+    [
+        {
+            "id": 1,
+            "image": "https://img.abaha.vn/photos/resized/320x/83-1586781803-myphamohui-lgvina.png",
+            "name": "Set kem mắt tái sinh Ohui The First Geniture Eye Cream Edition Grand Blue",
+            "priceOld": 4600000,
+            "PriceNew": 4140000,
+            "rating": 5,
+            "brand": "Ohui",
+            "percent": 10,
+            "status": 1
+        },
+        {
+            "id": 2,
+            "image": "https://img.abaha.vn/photos/resized/320x/83-1586773435-myphamohui-lgvina.png",
+            "name": "Set sữa rửa mặt Ohui Thefirst tái sinh",
+            "priceOld": 1750000,
+            "PriceNew": 1575000,
+            "rating": 4.5,
+            "brand": "Ohui",
+            "percent": 10,
+            "status": 1
+        },
+        {
+            "id": 3,
+            "image": "https://img.abaha.vn/photos/resized/320x/83-1586508167-myphamohui-lgvina.png",
+            "name": " Nước thần Su:m37 Secret Essence 230ml",
+            "priceOld": 3200000,
+            "PriceNew": 2800000,
+            "rating": 5,
+            "brand": "Su:m37",
+            "percent": 10,
+            "status": 0
+        },
+        {
+            "id": 4,
+            "image": "https://img.abaha.vn/photos/resized/320x/83-1586337175-myphamohui-lgvina.png",
+            "name": "Sữa rửa mặt Whoo vàng Gong Jin Yang Foam Cleanser 40ml",
+            "priceOld": 250000,
+            "PriceNew": 200000,
+            "rating": 4.5,
+            "brand": "Whoo",
+            "percent": 10,
+            "status": 0
+        },
+        {
+            "id": 5,
+            "image": "https://img.abaha.vn/photos/resized/320x/83-1585291439-myphamohui-lgvina.png",
+            "name": "Bộ dưỡng trắng da Su:m37 Water-full Radiant 3pcs Set",
+            "priceOld": 3800000,
+            "PriceNew": 3400000,
+            "rating": 5,
+            "brand": "Su:m37",
+            "percent": 20,
+            "status": -1
+        },
+        {
+            "id": 6,
+            "image": "https://img.abaha.vn/photos/resized/320x/83-1580888419-myphamohui-lgvina.png",
+            "name": "Bộ kem đặc trị vùng mắt Ohui Age Recovery Wrinkle Cut Serum.",
+            "priceOld": 2300000,
+            "PriceNew": 2070000,
+            "rating": 4.5,
+            "brand": "Ohui",
+            "percent": 10,
+            "status": 1
+        },
+        {
+            "id": 7,
+            "image": "https://img.abaha.vn/photos/resized/320x/83-1586336630-myphamohui-lgvina.png",
+            "name": " Set sữa rửa mặt  Ohui Prime Gel Cleanser",
+            "priceOld": 1150000,
+            "PriceNew": 1035000,
+            "rating": 4.5,
+            "brand": "Ohui",
+            "percent": 20,
+            "status": 1
+        },
+        {
+            "id": 8,
+            "image": "https://img.abaha.vn/photos/resized/320x/83-1586785742-myphamohui-lgvina.png",
+            "name": "Set dưỡng ẩm whoo vàng  Gong Jin Hyang 336ml",
+            "priceOld": 3450000,
+            "PriceNew": 3150000,
+            "rating": 5,
+            "brand": "Whoo",
+            "percent": 10,
+            "status": 1
+        },
+        {
+            "id": 9,
+            "image": "https://img.abaha.vn/photos/resized/320x/83-1580884899-myphamohui-lgvina.png",
+            "name": "Set kem mắt hoàn lưu cao phiên bản limited tăng đôi thể tích 50ml",
+            "priceOld": 12900000,
+            "PriceNew": 11600000,
+            "rating": 5,
+            "brand": "Whoo",
+            "percent": 10,
+            "status": 0
+        },
+        {
+            "id": 10,
+            "image": "https://img.abaha.vn/photos/resized/320x/83-1580885861-myphamohui-lgvina.png",
+            "name": "Son lì Su:m37 Losec Suma Elixir Golden Lipstick  tặng kèm bảng son Su:m 37 ",
+            "priceOld": 950000,
+            "PriceNew": 855000,
+            "rating": 4.5,
+            "brand": "Su:m37",
+            "percent": 10,
+            "status": 1
+        },
+        {
+            "id": 11,
+            "image": "https://img.abaha.vn/photos/resized/320x/83-1580817749-myphamohui-lgvina.png",
+            "name": "Cushion trang điểm dưỡng trắng Whoo Radiant White Moisture Cushion Foundation ",
+            "priceOld": 1500000,
+            "PriceNew": 1350000,
+            "rating": 5,
+            "brand": "Su:m37",
+            "percent": 10,
+            "status": 1
+        },
+        {
+            "id": 12,
+            "image": "https://img.abaha.vn/photos/resized/320x/83-1580794419-myphamohui-lgvina.png",
+            "name": "Set tái sinh Ohui Thefirst mini 7 món",
+            "priceOld": 2500000,
+            "PriceNew": 850000,
+            "rating":4 ,
+            "brand": "Ohui",
+            "percent": 10,
+            "status": 1
+        },
+        {
+            "id": 13,
+            "image": "https://img.abaha.vn/photos/resized/320x/83-1580711393-myphamohui-lgvina.png",
+            "name": "Xịt khoáng nước thần sum:37 Secret Esence mist 30ml",
+            "priceOld": 500000,
+            "PriceNew": 350000,
+            "rating": 4.5,
+            "brand": "Su:m37",
+            "percent": 30,
+            "status": 1
+        },
+        {
+            "id": 14,
+            "image": "https://img.abaha.vn/photos/resized/320x/83-1586777049-myphamohui-lgvina.png",
+            "name": "Set whoo tái sinh Whoo Ultimate Rejuvenating 3 món",
+            "priceOld": 1200000,
+            "PriceNew": 500000,
+            "rating": 4,
+            "brand": "Whoo",
+            "percent": 59,
+            "status": 1
+        },
+        {
+            "id": 15,
+            "image": "https://img.abaha.vn/photos/resized/320x/83-1576146597-myphamohui-lgvina.png",
+            "name": "Set tinh chất  Ohui xanh Prime Advancer Ampoule Serum phiên bản 90ml",
+            "priceOld": 3300000,
+            "PriceNew": 2970000,
+            "rating": 5,
+            "brand": "Ohui",
+            "percent": 10,
+            "status": 1
+        },
+        {
+            "id": 16,
+            "image": "https://img.abaha.vn/photos/resized/320x/83-1575812225-myphamohui-lgvina.png",
+            "name": "Set Ohui chống lão hóa Age recovery",
+            "priceOld": 3000000,
+            "PriceNew": 2700000,
+            "rating": 4,
+            "brand": "Ohui",
+            "percent": 10,
+            "status": 1
+        },
+        {
+            "id": 17,
+            "image": "https://img.abaha.vn/photos/resized/320x/83-1575812527-myphamohui-lgvina.png",
+            "name": "Set dưỡng da cấp nước Su:m37 water-full",
+            "priceOld": 3200000,
+            "PriceNew": 2800000,
+            "rating": 4,
+            "brand": "Su:m37",
+            "percent": 10,
+            "status": 0
+        },
+        {
+            "id": 18,
+            "image": "https://img.abaha.vn/photos/resized/320x/83-1586785730-myphamohui-lgvina.png",
+            "name": "Set tinh chất vàng Gold Ampoule  tái sinh Whoo Hwahyun",
+            "priceOld": 7800000,
+            "PriceNew": 7020000,
+            "rating": 5,
+            "brand": "Whoo",
+            "percent": 10,
+            "status": 1
+        },
+        {
+            "id": 19,
+            "image": "https://img.abaha.vn/photos/resized/320x/83-1575712923-myphamohui-lgvina.png",
+            "name": "Bộ sản phẩm tái sinh da cao cấp Whoo Cheongidan HwaHyun chống lão hóa",
+            "priceOld": 4400000,
+            "PriceNew": 4000000,
+            "rating": 4,
+            "brand": "Whoo",
+            "percent": 10,
+            "status": 1
+        },
+        {
+            "id": 20,
+            "image": "https://img.abaha.vn/photos/resized/320x/83-1575704558-myphamohui-lgvina.png",
+            "name": "Set tinh chất  Ohui Age Recovery",
+            "priceOld": 3300000,
+            "PriceNew": 2970000,
+            "rating": 4.5,
+            "brand": "Ohui",
+            "percent": 10,
+            "status": -1
+        },
+        {
+            "id": 21,
+            "image": "https://img.abaha.vn/photos/resized/320x/83-1575705318-myphamohui-lgvina.png",
+            "name": "Phấn “WHOO GONGJINHYANG MI ROYAL PACT” Phiên bảng Limited 2019",
+            "priceOld": 3900000,
+            "PriceNew": 3500000,
+            "rating": 5,
+            "brand": "Whoo",
+            "percent": 20,
+            "status": 1
+        },
+        {
+            "id": 22,
+            "image": "https://img.abaha.vn/photos/resized/320x/83-1577360256-myphamohui-lgvina.png",
+            "name": "Set tinh chất tái sinh Whoo Bichup Self-Generating Anti-Aging Essence",
+            "priceOld": 3900000,
+            "PriceNew": 3150000,
+            "rating": 4,
+            "brand": "Whoo",
+            "percent": 20,
+            "status": 1
+        },
+        {
+            "id": 23,
+            "image": "https://img.abaha.vn/photos/resized/320x/83-1575351507-myphamohui-lgvina.png",
+            "name": "Set phấn nước cushion Ohui hoa hồng 15g x 3 ( 3 lõi )",
+            "priceOld": 1350000,
+            "PriceNew": 1215000,
+            "rating": 4,
+            "brand": "Ohui",
+            "percent": 20,
+            "status": 1
+        },
+        {
+            "id": 24,
+            "image": "https://img.abaha.vn/photos/resized/320x/83-1574924693-myphamohui-lgvina.png",
+            "name": "Set kem chống lão hóa Whoo Ja Yoon Cream",
+            "priceOld": 5500000,
+            "PriceNew": 4950000,
+            "rating": 4.5,
+            "brand": "Whoo",
+            "percent": 10,
+            "status": 1
+        },
+        {
+            "id": 25,
+            "image": "https://img.abaha.vn/photos/resized/320x/83-1574919130-myphamohui-lgvina.png",
+            "name": "Set nước sữa tái sinh Ohui thefirst ",
+            "priceOld": 4200000,
+            "PriceNew": 3700000,
+            "rating": 5,
+            "brand": "Ohui",
+            "percent": 20,
+            "status": 1
+        },
+        {
+            "id": 26,
+            "image": "https://img.abaha.vn/photos/resized/320x/83-1574916494-myphamohui-lgvina.png",
+            "name": "TINH CHẤT AMPOULE SERUM OHUI XANH 20ML",
+            "priceOld": 1000000,
+            "PriceNew": 450000,
+            "rating": 5,
+            "brand": "Ohui",
+            "percent": 59,
+            "status": 1
+        },
+        {
+            "id": 27,
+            "image": "https://img.abaha.vn/photos/resized/320x/83-1574870992-myphamohui-lgvina.png",
+            "name": "Tinh chất cô đặc chuyên phục hồi da khô và da nhờn thiếu nước Ampoule 777",
+            "priceOld": 2700000,
+            "PriceNew": 2400000,
+            "rating": 4.5,
+            "brand": "Ohui",
+            "percent": 20,
+            "status": 1
+        }
+    ]
+}
